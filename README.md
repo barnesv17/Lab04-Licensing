@@ -9,3 +9,5 @@ We would use the same buisness model as Google for their Android platform where 
 
 
 ## Why We Chose Our License
+
+We chose this license so that larger companies like Tinder would be less likely to try and use our code since they could not take it private.
