@@ -4,4 +4,8 @@
 ##### GitLaid.
 ###### This dating software only accepts users of GitHub. Find your next collaborator and future partner.
 ## Business Model
+
+We would use the same buisness model as Google for their Android platform where the main code is open source but then we package it with the option for propietary software that makes the matches more relevent as opposed to being just randomly matched with eachother.
+
+
 ## Why We Chose Our License
