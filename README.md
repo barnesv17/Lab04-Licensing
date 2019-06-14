@@ -1,2 +1,3 @@
-# Lab04-Licensing
-Our group's project and business model
+## Our Project
+## Business Model
+## Why We Chose Our License
